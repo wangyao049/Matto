@@ -14,3 +14,5 @@
 Today is a gift, which is why we call it present.
 -----
 * The reason why people give up so fast is because they tend to look at how far they still have to go, instead of how far they have gotten.
+-----
+* Everything is possible. The impossible just takes longer.
