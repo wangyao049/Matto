@@ -18,3 +18,5 @@ Today is a gift, which is why we call it present.
 * Everything is possible. The impossible just takes longer.
 -----
 * Nobody ever got ready by waiting. You only get ready by starting.
+-----
+* No matter how bad or slow things go, you're still way ahead of everyone who isn't even trying.
